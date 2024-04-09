@@ -1,0 +1,10 @@
+{
+	"id": "writeit",
+	"name": "writeit",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Trying to use LLMs on Vault privately",
+	"author": "Obsidian",
+	"authorUrl": "https://twitter.com/imavnishk",
+	"isDesktopOnly": false
+}
